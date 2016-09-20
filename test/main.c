@@ -1,8 +1,7 @@
 #include<stdio.h>
 
 int main() {
-	int a, b, c;
-	c = 11 % 5;
-	printf("%d\n", c);
+	double a = -1.7;
+	printf("%d\n",(int)a);
 	return 0;
 }
